@@ -30,14 +30,18 @@ The center logo switches by local date (hero background and CTA accents shift to
 
 ## Deploy
 
-Static files only — upload the site root contents (not the archive) to the web host for `tri-suntool.com`:
+Hosted on GitHub Pages from [`Loneranger419/tri-sun-tool`](https://github.com/Loneranger419/tri-sun-tool):
+
+- Site: https://loneranger419.github.io/tri-sun-tool/
+
+Static files only — Pages serves the repo root (`master` branch):
 
 - `index.html`
 - `styles.css`
 - `main.js`
 - `assets/`
 
-Keep `Tri-Sun Old Site/` out of production unless you want an archive copy on the server.
+Keep `Tri-Sun Old Site/` out of the repo unless you want the archive published (it is currently untracked).
 
 ## Contact (canonical)
 

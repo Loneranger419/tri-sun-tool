@@ -4,8 +4,9 @@
 Static single-page site for Tri-Sun Tool Company. Goal: show shop info + contact. No framework/build.
 
 ## Paths
-- Live site root: `index.html`, `styles.css`, `main.js`, `assets/logo.png`
-- Archive (do not edit for live): `Tri-Sun Old Site/`
+- Live site root: `index.html`, `styles.css`, `main.js`, `assets/`
+- GitHub: `Loneranger419/tri-sun-tool` (public), Pages: https://loneranger419.github.io/tri-sun-tool/
+- Archive (local, untracked): `Tri-Sun Old Site/`
 
 ## Brand
 - Blue: `#0066cc` / deep `#004a99` / ink `#0a2a4a`
