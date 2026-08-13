@@ -26,7 +26,7 @@ The center logo switches by local date (hero background and CTA accents shift to
 
 **On/off switch:** in `main.js`, set `HOLIDAY_LOGOS_ENABLED` to `false` to keep the default logo for all visitors. `?dev=1` preview still works while it’s off.
 
-**Dev preview:** open with `?dev=1` (example: `http://localhost:3000/?dev=1`) for a corner dropdown to try each logo. Choice sticks for the browser tab via `sessionStorage`. You can also force one with `?holiday=independence`, `thanksgiving`, `christmas`, `newyear`, or `default`.
+**Dev preview:** open with `?dev=1` (example: `http://localhost:3000/?dev=1`) for a corner dropdown plus a date schedule table. Choice sticks for the browser tab via `sessionStorage`. You can also force one with `?holiday=independence`, `thanksgiving`, `christmas`, `newyear`, or `default`.
 
 ## Deploy
 

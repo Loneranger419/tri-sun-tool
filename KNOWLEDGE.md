@@ -21,7 +21,7 @@ Static single-page site for Tri-Sun Tool Company. Goal: show shop info + contact
   - Thanksgiving: Nov 15–Thanksgiving (4th Thu) → `Logo - Thanksgiving.png` (amber/brown)
   - Christmas: day after Thanksgiving–Dec 26 → `Logo - Christmas.png` (evergreen/blue/red)
   - New Year: Dec 27–Jan 3 → `Logo - New Year.png` (midnight/silver)
-- Preview: `?dev=1` shows corner selector; `?holiday=christmas` etc. forces a logo
+- Preview: `?dev=1` shows corner selector + simple schedule table; `?holiday=christmas` etc. forces a logo
 - Other logo variants in `assets/` for reference only
 
 ## Contact (source of truth)

@@ -174,6 +174,34 @@
         Live holidays: <strong>${HOLIDAY_LOGOS_ENABLED ? "ON" : "OFF"}</strong>
         (<code>HOLIDAY_LOGOS_ENABLED</code> in main.js)
       </p>
+      <table class="dev-logo-schedule">
+        <caption>Schedule</caption>
+        <thead>
+          <tr><th>Logo</th><th>When shown</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Independence Day</td>
+            <td>Jun 28 – Jul 7</td>
+          </tr>
+          <tr>
+            <td>Thanksgiving</td>
+            <td>Nov 15 – Thanksgiving</td>
+          </tr>
+          <tr>
+            <td>Christmas</td>
+            <td>Day after Thanksgiving – Dec 26</td>
+          </tr>
+          <tr>
+            <td>New Year</td>
+            <td>Dec 27 – Jan 3</td>
+          </tr>
+          <tr>
+            <td>Default</td>
+            <td>All other dates</td>
+          </tr>
+        </tbody>
+      </table>
     `;
     document.body.appendChild(panel);
 
