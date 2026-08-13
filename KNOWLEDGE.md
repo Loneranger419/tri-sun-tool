@@ -6,6 +6,7 @@ Static single-page site for Tri-Sun Tool Company. Goal: show shop info + contact
 ## Paths
 - Live site root: `index.html`, `styles.css`, `main.js`, `assets/`
 - GitHub: `Loneranger419/tri-sun-tool` (public), Pages: https://loneranger419.github.io/tri-sun-tool/
+- Pages SEO block: `robots.txt` Disallow + `<meta name="robots" content="noindex, nofollow">` (GitHub repo HTML itself still crawlable)
 - Archive (local, untracked): `Tri-Sun Old Site/`
 
 ## Brand

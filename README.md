@@ -33,6 +33,7 @@ The center logo switches by local date (hero background and CTA accents shift to
 Hosted on GitHub Pages from [`Loneranger419/tri-sun-tool`](https://github.com/Loneranger419/tri-sun-tool):
 
 - Site: https://loneranger419.github.io/tri-sun-tool/
+- Search engines: Pages site sends `noindex` and `robots.txt` Disallow (preview only — remove these when launching the real public domain)
 
 Static files only — Pages serves the repo root (`master` branch):
 
@@ -40,6 +41,7 @@ Static files only — Pages serves the repo root (`master` branch):
 - `styles.css`
 - `main.js`
 - `assets/`
+- `robots.txt`
 
 Keep `Tri-Sun Old Site/` out of the repo unless you want the archive published (it is currently untracked).
 
