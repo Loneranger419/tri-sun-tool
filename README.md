@@ -58,6 +58,10 @@ Keep `Tri-Sun Old Site/` out of the repo unless you want the archive published (
 - Seasonal hero files: Independence Day, Thanksgiving, Christmas, New Year (see table above)
 - Other logo files in `assets/` are reference variants only.
 
+## License
+
+Proprietary. See [`LICENSE`](LICENSE) — © 2026 Tri-Sun Tool Company, LLC. All rights reserved.
+
 ## Archive
 
 The previous site is preserved under `Tri-Sun Old Site/` for reference.

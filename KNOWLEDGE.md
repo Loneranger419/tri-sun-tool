@@ -26,16 +26,20 @@ Static single-page site for Tri-Sun Tool Company. Goal: show shop info + contact
 - Other logo variants in `assets/` for reference only
 
 ## Contact (source of truth)
+- Legal name: Tri-Sun Tool Company, LLC
 - Phone: (636) 947-0406 / tel:+16369470406
 - Address: **225** Spring Drive, St. Charles, MO 63303 (old site sometimes said 255 — wrong)
 - Maps: https://goo.gl/maps/TysXCb2tej92
+
+## License
+- Proprietary `LICENSE` (all rights reserved) + footer © notice; not open source
 
 ## Page sections
 1. Sticky header: logo + Capabilities / Equipment / Contact
 2. Hero: brand logo dominant, one lead line, Call + Directions CTAs
 3. Capabilities (from old capabilities.html)
 4. Equipment (from old equipment.html)
-5. Contact + footer repeat
+5. Contact + footer repeat (includes © Tri-Sun Tool Company, LLC)
 
 ## Constraints
 - Keep simple; no contact form/backend unless requested
